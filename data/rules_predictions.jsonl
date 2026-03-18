@@ -1,0 +1,24 @@
+{"conversation_id": "conv_001", "signals": [{"category": "intent", "subcategory": "trip_planning", "evidence": "travel-related mention", "confidence": 0.65}]}
+{"conversation_id": "conv_002", "signals": [{"category": "intent", "subcategory": "restaurant_booking", "evidence": "booking-related mention", "confidence": 0.75}]}
+{"conversation_id": "conv_003", "signals": [{"category": "intent", "subcategory": "trip_planning", "evidence": "travel-related mention", "confidence": 0.65}, {"category": "value", "subcategory": "suite_preference", "evidence": "suite mention", "confidence": 0.8}]}
+{"conversation_id": "conv_004", "signals": [{"category": "intent", "subcategory": "trip_planning", "evidence": "travel-related mention", "confidence": 0.65}, {"category": "life_event", "subcategory": "anniversary", "evidence": "anniversary mention", "confidence": 0.95}]}
+{"conversation_id": "conv_005", "signals": [{"category": "intent", "subcategory": "trip_planning", "evidence": "travel-related mention", "confidence": 0.65}, {"category": "life_event", "subcategory": "birthday", "evidence": "birthday mention", "confidence": 0.95}]}
+{"conversation_id": "conv_006", "signals": [{"category": "sentiment", "subcategory": "negative", "evidence": "negative wording", "confidence": 0.8}]}
+{"conversation_id": "conv_007", "signals": [{"category": "value", "subcategory": "suite_preference", "evidence": "suite mention", "confidence": 0.8}, {"category": "competitive", "subcategory": "competitor_mention", "evidence": "competitor mention", "confidence": 0.8}]}
+{"conversation_id": "conv_008", "signals": [{"category": "intent", "subcategory": "trip_planning", "evidence": "travel-related mention", "confidence": 0.65}, {"category": "competitive", "subcategory": "competitor_mention", "evidence": "competitor mention", "confidence": 0.8}]}
+{"conversation_id": "conv_009", "signals": [{"category": "intent", "subcategory": "restaurant_booking", "evidence": "booking-related mention", "confidence": 0.75}]}
+{"conversation_id": "conv_010", "signals": [{"category": "intent", "subcategory": "restaurant_booking", "evidence": "booking-related mention", "confidence": 0.75}]}
+{"conversation_id": "conv_011", "signals": []}
+{"conversation_id": "conv_012", "signals": []}
+{"conversation_id": "conv_013", "signals": [{"category": "intent", "subcategory": "restaurant_booking", "evidence": "booking-related mention", "confidence": 0.75}]}
+{"conversation_id": "conv_014", "signals": []}
+{"conversation_id": "conv_015", "signals": [{"category": "value", "subcategory": "suite_preference", "evidence": "suite mention", "confidence": 0.8}]}
+{"conversation_id": "conv_016", "signals": [{"category": "sentiment", "subcategory": "negative", "evidence": "negative wording", "confidence": 0.8}]}
+{"conversation_id": "conv_017", "signals": []}
+{"conversation_id": "conv_018", "signals": []}
+{"conversation_id": "conv_019", "signals": [{"category": "intent", "subcategory": "trip_planning", "evidence": "travel-related mention", "confidence": 0.65}]}
+{"conversation_id": "conv_020", "signals": []}
+{"conversation_id": "conv_021", "signals": [{"category": "intent", "subcategory": "restaurant_booking", "evidence": "booking-related mention", "confidence": 0.75}, {"category": "value", "subcategory": "suite_preference", "evidence": "suite mention", "confidence": 0.8}]}
+{"conversation_id": "conv_022", "signals": []}
+{"conversation_id": "conv_023", "signals": [{"category": "intent", "subcategory": "trip_planning", "evidence": "travel-related mention", "confidence": 0.65}, {"category": "life_event", "subcategory": "birthday", "evidence": "birthday mention", "confidence": 0.95}]}
+{"conversation_id": "conv_024", "signals": []}
